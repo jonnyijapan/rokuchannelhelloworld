@@ -1,0 +1,14 @@
+# Channel Details
+title=testvideochannel
+major_version=1
+minor_version=1
+build_version=10
+
+# Splash Screen + Loading Screen Artwork
+splash_color=#000045
+
+# Resolution
+ui_resolutions=fhd
+
+rsg_version=1.2
+supports_input_launch=1
